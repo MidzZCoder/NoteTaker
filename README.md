@@ -4,7 +4,7 @@ You can use this application for note taking. You will be able to write, save, a
 
 $$ Link to Application
 
-Follow [this link](https://note-taker-apps.herokuapp.com/) to view the application.
+Follow [this link](https://midz-note-taker.herokuapp.com/) to view the application.
 
 $$ Screenshots
 
